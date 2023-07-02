@@ -1,21 +1,40 @@
-# cob2e4812840974342ebb42eb
+# Hi 👋 I am Jason Burns
+## Developer
+Always learning, improving, coding, collaborating 
 
-Quick start:
+* 🌍  I'm based in Cumbria, UK
+* 🖥️  See my portfolio at [https://jdbwebdesigns.co.uk/profile](https://jdbwebdesigns.co.uk/profile)
+* 👨‍💻  I'm currently working on [A Chrome Extension](https://scrimba.com/scrim/co165468ea633f3ecf0cba0c1)
+* ✉️  You can reach me at [info@jdbwebdesigns.co.uk](mailto:info@jdbwebdesigns.co.uk)
+* 🧠  I'm currently learning React, Python, Advanced JS
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡ Fun fact: A shrimp's heart is in its head!
 
-```
-$ npm install
-$ npm start
-````
+[![Github Follow](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)](https://github.com/https://github.com/Jasonburns234)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jason-burns-8989931a8/)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+<h3 align="left">Skills:</h3>
+<p align="left">
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="PYTHON" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="BOOTSTRAP" /></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
 
-Happy Coding!
+</p>
+
+
+### Badges
+
+<h4>My GitHub Stats</h4>
+
+
+
+
+
+
